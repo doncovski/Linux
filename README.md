@@ -1,2 +1,2 @@
-# scripts
+# Linux
 Shell scripts used in day to day work for backups, monitoring, alerting ...
